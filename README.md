@@ -2,4 +2,4 @@
 
 ## Assistant Professor in Management - ESCP Business School
 
-!(/Huynh-Chang-Wa.jpg)
+!(/asset/HUYNH-Chang-Wa.jpeg)
