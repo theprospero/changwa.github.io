@@ -2,7 +2,7 @@
 
 ## Assistant Professor in Management - ESCP Business School
 
-!(asset/HUYNH-Chang-Wa.jpeg)
+![HUYNH Chang-Wa](asset/HUYNH-Chang-Wa.jpeg)
 
 I am an Assistant professor at ESCP Business School.
 
