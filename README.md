@@ -6,7 +6,9 @@
   <img src="asset/HUYNH-Chang-Wa.jpeg?raw=true" alt="HUYNH Chang-Wa"/>
 </p>
 
+
 I am an Assistant professor at ESCP Business School.
+
 
 My research seeks to understand how social evaluations determine the relationships between firms and societies. More particularly, for instance, I study how employees’ legitimacy judgments influence firms implementing a corporate purpose and CSR/sustainability practices. In other projects, I study the moral and affective dimension of social evaluations on firm performance.
 
