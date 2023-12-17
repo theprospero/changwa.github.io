@@ -1,5 +1,3 @@
-# Chang-Wa Huynh
-
 ## Assistant Professor in Management - ESCP Business School
 
 <p align="center">
