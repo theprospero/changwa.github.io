@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Chang-Wa Huynh - Contact
+title: Contact
 order: 5
 ---
 
