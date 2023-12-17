@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Chang-Wa Huynh - CV
+title: CV
 order: 4
 ---
 
