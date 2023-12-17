@@ -1,8 +1,8 @@
 ---
 layout: default
 published: true
-title: Chang-Wa Huynh - Teaching and Service
-order: 3
+title: Teaching and Service
+order: 2
 ---
 
 # Teaching and Service
