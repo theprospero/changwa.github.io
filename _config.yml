@@ -1,1 +1,10 @@
 theme: minima
+
+author:
+  name: "Chang-Wa Huynh"
+  bio: "Assistant Professor in Management"
+  location: "Paris, France"
+  email: "chuynh@escp.eu"
+  employer: "ESCP Business school"
+  linkedin: "chang-wa-huynh"
+  
