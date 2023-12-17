@@ -1,9 +1,4 @@
----
-layout: default
-published: true
-title: Chang-Wa Huynh - Assistant Professor in Management - ESCP Business School
-order: 1
----
+
 
 # Chang-Wa Huynh
 
