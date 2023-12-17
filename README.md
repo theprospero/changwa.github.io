@@ -1,3 +1,10 @@
+---
+layout: default
+published: true
+title: Home
+order: 0
+---
+
 ## Assistant Professor in Management - ESCP Business School
 
 <p align="center">
