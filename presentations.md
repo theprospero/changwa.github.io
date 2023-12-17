@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Chang-Wa Huynh - Presentations
+title: Presentations
 order: 3
 ---
 
