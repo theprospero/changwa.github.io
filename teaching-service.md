@@ -1,3 +1,10 @@
+---
+layout: default
+published: true
+title: Chang-Wa Huynh - Teaching and Service
+order: 3
+---
+
 # Teaching and Service
 
 ## Teaching
