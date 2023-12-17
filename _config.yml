@@ -1,3 +1,45 @@
 theme: minima
 title: Chang-Wa Huynh
 
+# Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "G-6CEEHPSHJW"
+
+
+# Site Author
+author:
+  name             : "Chang-Wa Huynh"
+  bio              : "Assistant Professor in Management"
+  location         : "Paris, Franece"
+  employer         : "ESCP Business School"
+  googlescholar    : "https://scholar.google.com/citations?user=01rwEy4AAAAJ&hl=en"
+  email            :
+  researchgate     :  
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "https://fr.linkedin.com/in/changwahuynh"
+  orcid            : "https://orcid.org/0000-0002-4756-7579"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
