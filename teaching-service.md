@@ -22,7 +22,7 @@ order: 2
 
 **Teaching Assistant** (HEC Paris) ValueS-Based-Strategies, Fall 2019 and Fall 2021 Master in Strategic Management, Strategy core course, 2019-2022 Master in Management
 
-** Research Assistant** (HEC Paris), 2018-2020, Purposeful Leadership Chair and Strategy department (incl. case and teaching note writing: “Best Buy case study: How does Purposeful Leadership Impact Performance?”)
+**Research Assistant** (HEC Paris), 2018-2020, Purposeful Leadership Chair and Strategy department (incl. case and teaching note writing: “Best Buy case study: How does Purposeful Leadership Impact Performance?”)
 
 ## Academic activities and Service
 
