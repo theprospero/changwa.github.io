@@ -1,4 +1,3 @@
-# Home
 
 <p align="center">
   <img src="asset/HUYNH-Chang-Wa.jpeg?raw=true" alt="HUYNH Chang-Wa"/>
