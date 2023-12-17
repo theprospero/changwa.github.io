@@ -1,3 +1,10 @@
+---
+layout: default
+published: true
+title: Chang-Wa Huynh - Research
+order: 2
+---
+
 # Research
 
 ## Publications
