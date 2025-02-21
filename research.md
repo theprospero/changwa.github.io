@@ -17,7 +17,7 @@ order: 1
 ## Papers under review / Working papers
 
 * “An Inconvenient Compromise: moral legitimacy judgments and centrality of CSR practices” (rejected after 1st round R&R at Academy of Management Review), in preparation for submission
-* Moralization of Social goals (rejected at Academy of Management Review, in preparation for new submission)
+* “From Net Zero to Corporate Purpose: Moralizing Social Performance” (rejected at Academy of Management Review, in preparation for new submission)
 * [title blinded for peer review], co-authored with Rodolphe Durand (Reject and Resubmit at Strategic Management Journal)
 * “Too Much of a Good Thing? Legitimacy judgments and willingness to join a prosocial purpose-driven company”, co-authored with Rodolphe Durand and Yoonjin Choi (in preparation for new submission – target journal: Strategic Management Journal)
 * [titled blinded for peer review], co-authored with Magali Delmas and Marieke Huysentruyt (submitted at Strategic Management Journal)
