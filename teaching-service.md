@@ -10,9 +10,10 @@ order: 2
 ## Teaching
 
 **Instructor**
-- At ESCP Business School
-  - Strategy Core Course (Master 1)
-  - Research Topics in Strategic Management (PhD)
+- At ESCP Business School 
+  - Strategy Core Course (from Fall 2023, Master 1)
+  - Advanced Theories of Firms and Organizations (from Fall 2024, PhD)
+  - Research Topics in Strategic Management (from Spring 2024, PhD)
 - At HEC Paris
   - ValueS-Based-Strategies, Fall 2020, Master in Strategic Management
   - Purpose and Leadership Seminar, Fall 2020, Fall 2021 and Fall 2022, Undergraduate
@@ -28,11 +29,15 @@ order: 2
 
 **Organizer and Moderator**
 - Professional Development Workshop on Corporate purpose, Academy of Management Annual Meeting 2022
-
-**Reviewer**
-- Academy of Management Conference 2020-2022
-- Strategic Management Journal
-- Organization Studies
 - Digital Session Chair, Academy of Management Conference 2021
+  
+**Reviewer**
+•	Strategic Management Journal
+•	Academy of Management Review
+•	Organization Studies
+•	Long Range Planning
+•	Poetics
+•	Academy of Management Conference
+•	Strategic Management Society Conferences
 
 **Contributor**, ASQ Blog
