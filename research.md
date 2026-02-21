@@ -16,12 +16,14 @@ order: 1
 
 ## Papers under review / Working papers
 
+* [title blinded for peer review], co-authored with Rodolphe Durand (Under Review at Strategic Management Journal)
+* [title blinded for peer review], co-authored with Yaelle Amsalle (Under Review at Academy of Management Review)
 * “An Inconvenient Compromise: moral legitimacy judgments and centrality of CSR practices” (rejected after 1st round R&R at Academy of Management Review), in preparation for submission
 * “From Net Zero to Corporate Purpose: Moralizing Social Performance” (rejected at Academy of Management Review, in preparation for new submission)
-* [title blinded for peer review], co-authored with Rodolphe Durand (Reject and Resubmit at Strategic Management Journal)
 * “Too Much of a Good Thing? Legitimacy judgments and willingness to join a prosocial purpose-driven company”, co-authored with Rodolphe Durand and Yoonjin Choi (in preparation for new submission – target journal: Strategic Management Journal)
 * [titled blinded for peer review], co-authored with Magali Delmas and Marieke Huysentruyt (submitted at Strategic Management Journal)
 
 ## Work in progress
 
 * “Emotional reactions to #metoo as catalyzer of the role of social evaluations in homophilous ties”, co-authored with Arnaud Cudennec (data analysis)
+* AI & Learning – A Moral Emotion perspective, co-authored with Yaelle Amsallem (data collection)
